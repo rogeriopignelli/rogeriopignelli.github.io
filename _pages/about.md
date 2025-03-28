@@ -33,4 +33,4 @@ I received my bachelor's degree in Electrical Engineering at [Technological Fede
 
 I have a broad interest in applying machine learning and signal processing to drive transformative change, whether in speech analysis, healthcare, or any field where innovative technology can make a meaningful impact on the world.
 
-I am eager to contribute to cutting-edge research and bring my expertise in both practical applications and theoretical foundations to a PhD program.
+I am excited to contribute to cutting-edge research and bring my expertise in both practical applications and theoretical foundations to a PhD program.
