@@ -49,7 +49,7 @@ ninja.data = [{
         title: 'Lattes',
         section: 'Socials',
         handler: () => {
-          window.open("http://lattes.cnpq.br/", "_blank");
+          window.open("http://lattes.cnpq.br/4394140548642721", "_blank");
         },
       },{
         id: 'social-ieee',
