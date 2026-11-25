@@ -3,6 +3,37 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{Brancatelli2027,
+  author = {Brancatelli, Giuseppe and Lipari, Vincenzo and Forlin, Edy and Pignelli, Rogerio and Busetti, Martina and Geletti, Riccardo},
+  title = {Joint training across streamer geometries for missing-trace reconstruction: A comparative evaluation on real marine data},
+  journal = {Journal of Applied Geophysics},
+  volume = {256},
+  pages = {106621},
+  year = {2027},
+  doi = {10.1016/j.jappgeo.2026.106621},
+  note = {Volume 256, article 106621.},
+  abstract = {Can one interpolation model serve marine surveys recorded with different streamer lengths? We evaluate joint
+    training across geometries with a compact U-Net and the larger published U-Net of Chai and co-workers, asking
+    how backbone, objective and geometry conditioning affect reconstruction, transfer and a stacked image. Six
+    real surveys with 1500, 3000 and 4500 m streamers form the training pool and are split contiguously within
+    each survey, while three further surveys and the Marmousi synthetic data are held out. At 20–80% random
+    decimation, the compact network exceeds multichannel singular spectrum analysis by 2.5–5.9 dB and projection
+    onto convex sets by 2.9–7.9 dB in missing-trace signal-to-noise ratio, and singular spectrum analysis ranks
+    second at every level. Without fine-tuning, it scores about 3–5 dB lower on the held-out surveys than on the
+    internal test. The Chai U-Net gains about 1 dB on the internal test, but its advantage depends on the domain: it
+    is smaller on the held-out surveys and on Marmousi recorded with a 2575 m streamer, a length never seen in
+    training, and larger on Marmousi with the 1500 m streamer. Replacing its mean-squared-error objective with
+    a composite objective improves its transfer on gathers, whereas streamer-length conditioning has only a small,
+    backbone-dependent effect. On one held-out line, all deep learning configurations yield visually similar stacks,
+    scoring 5.96–6.37 dB against the reference with section-wise gain control, compared with 0.90–1.14 dB for the
+    classical methods and 3.48 dB with gaps unfilled. The compact network achieves this with one tenth of the
+    parameters and 28% of the training time per epoch. Large contiguous far-offset gaps, however, remain poorly
+    reconstructed. Pooled training is therefore a practical option for lines of different streamer lengths, and tests
+    across acquisition systems are the next step.},
+  selected = {true},
+  bibtex_show = {true}
+}
+
 @INPROCEEDINGS{Pignelli2024,
   author={Pignelli, Rogerio and Scalassara, Paulo R. and Dajer, María E. and Spatti, Danilo H.},
   booktitle={2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON)}, 
@@ -22,8 +53,9 @@
 
   @INPROCEEDINGS{PIGNELLI_CBEB_2024,
     author = {Pignelli, Rogerio and Castoldi, Marcelo F. and Dajer, Maria E. and Spatti, Danilo H. and Scalassara, Paulo R.},
-    title ={Algoritmos de Otimização Binários aplicados à seleção de hiperparâmetros do perceptron multicamadas para identificação de edema de Reinke} ,
-    booktitle = {Anais do Congresso Brasileiro de Engenharia Biomédica (CBEB)},
+    title = {Binary optimization algorithms applied to multilayer perceptron hyperparameter selection for Reinke's edema identification},
+    booktitle = {Proceedings of the Brazilian Congress of Biomedical Engineering (CBEB)},
+    note = {Original title in Portuguese.},
     year = {2024},
     publisher = {SBEB},
     address = {Ribeir\~{a}o Preto, Brasil},
@@ -42,13 +74,11 @@ algorithms and validate these approaches on different data sets, covering classi
 }
 
 @INPROCEEDINGS{PIGNELLI_2025,
-author={Pignelli, Rogerio and Souza, Wesley Angelino de and Scalassara, Paulo Rogério},
-title = {Comparação de Redes Convolucionais para Classificação de Distúrbios Vocais Usando Sinais de Voz Subamostrados},
-booktitle = {Anais do Simpósio Brasileiro de Automação Inteligente (SBAI) [under review]},
-year = {2025}
+  author = {Pignelli, Rogerio and de Souza, Wesley Angelino and Scalassara, Paulo Rogério},
+  title = {Comparison of convolutional networks for classification of vocal disorders using subsampled voice signals},
+  booktitle = {Proceedings of the Brazilian Symposium on Intelligent Automation (SBAI)},
+  year = {2025},
+  doi = {10.29327/1842969.1-508},
+  note = {Original title in Portuguese.}
 }
-
-Pignelli, R., de Souza, W. A., & Scalassara, P. R. (Under review). Comparison of convolutional networks for
-classification of vocal disorders using subsampled voice signals [Original title in Portuguese]. Manuscript submitted
-for publication in the proceedings of the 2025 Brazilian Symposium on Intelligent Automation (SBAI)
 

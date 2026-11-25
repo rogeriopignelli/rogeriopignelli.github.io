@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.Sc. in Electrical Engineering | Machine Learning | Explainability | Feature Engineering
+subtitle: PhD candidate · Deep Learning · Signal Processing · Inverse Problems
 
 profile:
   align: right
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am now a M.Sc. student at [Technological Federal University - Paraná](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgee-cp) (UTFPR), advised by Prof. Dr. [Paulo Rogério Scalassara](https://orcid.org/0000-0001-7169-954X). I am curently working on feature selection and interpretability techniques (e.g., SHAP) to understand the features' importance in voice disorder classification. Previously, I have worked on optimization methods for selecting the best hyperparameters in classification models, and I have explored deep learning methods for multiple voice disorder classification.
+I am a PhD student in [Applied Data Science and Artificial Intelligence at the University of Trieste (UniTS)](https://phd.units.it/en/dot21l8ayp), Italy, pursuing a PhD in collaboration with the [National Institute of Oceanography and Applied Geophysics (OGS)](https://www.ogs.it/en/about-us).
 
-I received my bachelor's degree in Electrical Engineering at [Technological Federal University - Paraná](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgee-cp) in 2023. During my bachelor's degree, I had the opportunity to work on speech analysis and automatic voice disorder identification with Prof. Dr. [María Eugenia Dajer](http://paginapessoal.utfpr.edu.br/medajer/maria-eugenia-dajer).
+My current research focuses on the application of machine learning and deep learning to seismic data processing and imaging, with particular interest in diffusion models, self-supervised learning, seismic signal restoration, and inverse problems. I am also involved in research on seismic sensing for wildlife monitoring, exploring interpretable machine learning and uncertainty quantification through conformal prediction.
 
-I have a broad interest in applying machine learning and signal processing to drive transformative change, whether in speech analysis, healthcare, or any field where innovative technology can make a meaningful impact on the world.
+I received my bachelor's and master's degrees in Electrical Engineering from the [Federal University of Technology – Paraná (UTFPR)](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgee-cp), Brazil. During my master's degree, advised by Prof. Dr. [Paulo Rogério Scalassara](https://orcid.org/0000-0001-7169-954X), I investigated machine learning, feature extraction and selection, and explainability techniques for automatic voice disorder classification. My previous research also involved deep learning for biomedical signal analysis and hyperparameter optimization.
 
-I am excited to contribute to cutting-edge research and bring my expertise in both practical applications and theoretical foundations to a PhD program.
+My broader research interests lie at the intersection of machine learning, signal processing, and scientific computing, particularly in developing reliable and interpretable data-driven methods for real-world scientific and engineering problems.
